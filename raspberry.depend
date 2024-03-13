@@ -1,0 +1,30 @@
+# depslib dependency file v1.0
+1629809102 source:c:\users\sx405\documents\c语言\raspberry\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1629602962 source:c:\users\sx405\documents\c语言\raspberry\比大小.c
+	<stdio.h>
+
+1630165594 source:c:\users\sx405\documents\c语言\raspberry\mooc.c
+	<stdio.h>
+	<math.h>
+
+1630169981 source:c:\users\sx405\documents\c语言\raspberry\求绝对值.c
+	<stdio.h>
+	<stdint.h>
+
+1630171363 source:c:\users\sx405\documents\c语言\raspberry\求绝对值函数方法.c
+	<stdio.h>
+	<math.h>
+
+1630236735 source:c:\users\sx405\documents\c语言\raspberry\找数.c
+	<stdio.h>
+
+1630245522 source:c:\users\sx405\documents\c语言\raspberry\数列求和一个一个加.c
+	<stdio.h>
+	<math.h>
+
+1630311167 source:c:\users\sx405\documents\c语言\raspberry\水仙花数.c
+	<stdio.h>
+
