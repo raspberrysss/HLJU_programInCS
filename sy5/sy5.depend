@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1651414738 source:d:\my documents game cyuyan\c++\sy5\main.cpp
+	<iostream>
+	"songer00.h"
+	<string>
+	<cstdlib>
+
+1651415071 source:d:\my documents game cyuyan\c++\sy5\songer01.cpp
+	<iostream>
+	<string>
+	"songer00.h"
+
+1651414189 d:\my documents game cyuyan\c++\sy5\songer00.h
+	<string>
+

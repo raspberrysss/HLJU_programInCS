@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1652024603 source:d:\my documents game cyuyan\c++\sy72\main.cpp
+	<iostream>
+	"jihem.h"
+
+1662509813 d:\my documents game cyuyan\c++\sy72\jihem.h
+	<iostream>
+

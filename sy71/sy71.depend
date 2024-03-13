@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1651966058 source:d:\my documents game cyuyan\c++\sy71\main.cpp
+	<iostream>
+	"paixu.h"
+
+1651966669 d:\my documents game cyuyan\c++\sy71\paixu.h
+	<iostream>
+

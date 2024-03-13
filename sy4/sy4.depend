@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1650543795 source:d:\my documents game cyuyan\c++\sy4\main.cpp
+	<iostream>
+	"personps00.h"
+	<string>
+
+1650542773 d:\my documents game cyuyan\c++\sy4\personps00.h
+	<string>
+
+1650081463 source:d:\my documents game cyuyan\c++\sy4\personps01.cpp
+	"personps00.h"
+	<iostream>
+	<string>
+

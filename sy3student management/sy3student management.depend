@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1650210301 source:d:\my documents game cyuyan\c++\sy3student management\main.cpp
+	<iostream>
+	"student_link00.h"
+	<string>
+	<cstdlib>
+
+1650210439 source:d:\my documents game cyuyan\c++\sy3student management\student_link10.cpp
+	<iostream>
+	"student_link00.h"
+
+1650153971 d:\my documents game cyuyan\c++\sy3student management\student_link00.h
+	<string>
+

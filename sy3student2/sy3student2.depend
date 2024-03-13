@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1650205641 source:d:\my documents game cyuyan\c++\sy3student2\main.cpp
+	<iostream>
+	"student2.h"
+	<string>
+	<cstdlib>
+
+1650205641 d:\my documents game cyuyan\c++\sy3student2\student2.h
+	<string>
+
+1650206009 source:d:\my documents game cyuyan\c++\sy3student2\student2.cpp
+	<iostream>
+	"student2.h"
+

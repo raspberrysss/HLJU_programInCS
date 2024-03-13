@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1651422114 source:d:\my documents game cyuyan\c++\sy6xz\sy6xz.cpp
+	<iostream>
+	"sy6xz.h"
+
+1651448655 d:\my documents game cyuyan\c++\sy6xz\sy6xz.h
+
+1651422410 source:d:\my documents game cyuyan\c++\sy6xz\main.cpp
+	<iostream>
+	"sy6xz.h"
+

@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1653008335 source:d:\my documents game cyuyan\c++\sy8vector\main.cpp
+	"sy8v.h"
+	<iostream>
+	<vector>
+	<string>
+	<algorithm>
+	<fstream>
+
+1654021063 d:\my documents game cyuyan\c++\sy8vector\sy8v.h
+	<iostream>
+	<vector>
+	<string>
+	<fstream>
+
+1653009654 source:d:\my documents game cyuyan\c++\sy8vector\sy8ve.cpp
+	"sy8v.h"
+	<iostream>
+	<vector>
+	<string>
+	<algorithm>
+	<fstream>
+

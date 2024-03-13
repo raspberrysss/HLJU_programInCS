@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1651413505 source:d:\my documents game cyuyan\c++\sy6\main.cpp
+	<iostream>
+	"Binarytree.h"
+
+1651305453 source:d:\my documents game cyuyan\c++\sy6\binarytree01.cpp
+	<iostream>
+	"Binarytree.h"
+
+1651421656 d:\my documents game cyuyan\c++\sy6\binarytree.h
+

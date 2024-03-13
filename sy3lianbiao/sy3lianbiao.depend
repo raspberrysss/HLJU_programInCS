@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1649491663 source:d:\my documents game cyuyan\c++\sy3lianbiao\main.cpp
+	<iostream>
+	"link00.h"
+
+1649488715 source:d:\my documents game cyuyan\c++\sy3lianbiao\link01.cpp
+	<iostream>
+	"link00.h"
+
+1649491460 d:\my documents game cyuyan\c++\sy3lianbiao\link00.h
+
