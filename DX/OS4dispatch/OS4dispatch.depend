@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1699958053 source:d:\my documents game cyuyan\c++\dx\os4dispatch\main.cpp
+	<iostream>
+	<stdlib.h>
+	"Dispatch.h"
+
+1699958052 d:\my documents game cyuyan\c++\dx\os4dispatch\dispatch.h
+	<string>
+
+1699928645 source:d:\my documents game cyuyan\c++\dx\os4dispatch\dispatch01.cpp
+	"Dispatch.h"
+	<iostream>
+

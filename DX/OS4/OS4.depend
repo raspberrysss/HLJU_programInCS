@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1700400693 source:d:\my documents game cyuyan\c++\dx\os4\main.cpp
+	<iostream>
+	<stdlib.h>
+	"os400.h"
+	<vector>
+
+1700402292 d:\my documents game cyuyan\c++\dx\os4\os400.h
+	<vector>
+
+1700402238 source:d:\my documents game cyuyan\c++\dx\os4\os401.cpp
+	<iostream>
+	"os400.h"
+	<string>
+	<vector>
+	<algorithm>
+	<iomanip>
+	<cmath>
+

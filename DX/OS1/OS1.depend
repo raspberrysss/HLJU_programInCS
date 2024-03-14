@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1695524970 source:d:\my documents game cyuyan\c++\dx\os1\main.cpp
+	<iostream>
+	<cstdlib>
+	"List_P00.h"
+
+1695524970 source:d:\my documents game cyuyan\c++\dx\os1\list_p01.cpp
+	<iostream>
+	"List_P00.h"
+
+1695520950 d:\my documents game cyuyan\c++\dx\os1\list_p00.h
+

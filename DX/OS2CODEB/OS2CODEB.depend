@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1697986007 source:d:\my documents game cyuyan\c++\dx\os2codeb\main.cpp
+	<iostream>
+	"Paging.h"
+
+1697985960 source:d:\my documents game cyuyan\c++\dx\os2codeb\paging01.cpp
+	"Paging.h"
+	<iostream>
+	<vector>
+	<cstdlib>
+	<ctime>
+
+1697981205 d:\my documents game cyuyan\c++\dx\os2codeb\paging.h
+	<vector>
+	<queue>
+

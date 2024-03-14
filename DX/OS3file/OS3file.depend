@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1699784067 source:d:\my documents game cyuyan\c++\dx\os3file\file00.cpp
+	"File01.h"
+	<string>
+	<sstream>
+	<iostream>
+	<cstdlib>
+	<ctime>
+
+1699784002 source:d:\my documents game cyuyan\c++\dx\os3file\main.cpp
+	<iostream>
+	<string>
+	"File01.h"
+	<cstdlib>
+
+1699782811 d:\my documents game cyuyan\c++\dx\os3file\file01.h
+	<string>
+	<sstream>
+
