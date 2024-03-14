@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1665498833 source:d:\my documents game cyuyan\c++\daer\sy5\main.cpp
+	<iostream>
+	<stdlib.h>
+	"Binary_Tree00.h"
+
+1665538541 source:d:\my documents game cyuyan\c++\daer\sy5\binary_tree01.cpp
+	<iostream>
+	"Binary_Tree00.h"
+
+1665498724 d:\my documents game cyuyan\c++\daer\sy5\binary_tree00.h
+

@@ -1,0 +1,22 @@
+# depslib dependency file v1.0
+1663466619 source:d:\my documents game cyuyan\c++\大二上\sy2\main.cpp
+	<iostream>
+	"list00.h"
+
+1663487014 source:d:\my documents game cyuyan\c++\大二上\sy2\list01.cpp
+	<iostream>
+	"list00.h"
+
+1663466462 d:\my documents game cyuyan\c++\大二上\sy2\list00.h
+
+1664071128 source:d:\my documents game cyuyan\c++\daer\sy2\list01.cpp
+	<iostream>
+	"list00.h"
+
+1663724537 d:\my documents game cyuyan\c++\daer\sy2\list00.h
+
+1663730247 source:d:\my documents game cyuyan\c++\daer\sy2\main.cpp
+	<iostream>
+	"list00.h"
+	<cstdlib>
+

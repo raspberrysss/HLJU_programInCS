@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1669730507 source:d:\my documents game cyuyan\c++\daer\sy9\sort.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	"sort.h"
+
+1669733147 d:\my documents game cyuyan\c++\daer\sy9\sort.h
+
+1669727173 source:d:\my documents game cyuyan\c++\daer\sy9\main.cpp
+	<iostream>
+	"Sort.h"
+	<ctime>
+	<cstdlib>
+

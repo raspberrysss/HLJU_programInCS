@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1664937673 source:d:\my documents game cyuyan\c++\daer\sy4xiabiao\main.cpp
+	<iostream>
+	<cstdlib>
+	"stack00.h"
+
+1664942471 source:d:\my documents game cyuyan\c++\daer\sy4xiabiao\stack01.cpp
+	<iostream>
+	"stack00.h"
+	<string>
+
+1664901140 d:\my documents game cyuyan\c++\daer\sy4xiabiao\stack00.h
+

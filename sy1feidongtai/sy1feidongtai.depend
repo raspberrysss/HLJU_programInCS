@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1663126134 source:d:\my documents game cyuyan\c++\大二上\sy1feidongtai\main.cpp
+	<iostream>
+	<stdlib.h>
+	"sequence.h"
+
+1663126811 source:d:\my documents game cyuyan\c++\大二上\sy1feidongtai\sequence.cpp
+	<iostream>
+	"sequence.h"
+
+1662812054 d:\my documents game cyuyan\c++\大二上\sy1feidongtai\sequence.h
+
+1663126134 source:d:\my documents game cyuyan\c++\daer\sy1feidongtai\main.cpp
+	<iostream>
+	<stdlib.h>
+	"sequence.h"
+
+1662812054 d:\my documents game cyuyan\c++\daer\sy1feidongtai\sequence.h
+
+1663126811 source:d:\my documents game cyuyan\c++\daer\sy1feidongtai\sequence.cpp
+	<iostream>
+	"sequence.h"
+

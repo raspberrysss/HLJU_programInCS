@@ -1,0 +1,24 @@
+# depslib dependency file v1.0
+1663733259 source:d:\my documents game cyuyan\c++\大二上\sy3\main.cpp
+	<iostream>
+	"link_cycle00.h"
+	<cstdlib>
+
+1663733234 source:d:\my documents game cyuyan\c++\大二上\sy3\link_cycle01.cpp
+	<iostream>
+	"link_cycle00.h"
+
+1663732684 d:\my documents game cyuyan\c++\大二上\sy3\link_cycle00.h
+
+1664334514 source:d:\my documents game cyuyan\c++\daer\sy3\link_cycle01.cpp
+	<iostream>
+	"link_cycle00.h"
+
+1664197498 d:\my documents game cyuyan\c++\daer\sy3\link_cycle00.h
+	<iostream>
+
+1664334064 source:d:\my documents game cyuyan\c++\daer\sy3\main.cpp
+	<iostream>
+	"link_cycle00.h"
+	<cstdlib>
+
