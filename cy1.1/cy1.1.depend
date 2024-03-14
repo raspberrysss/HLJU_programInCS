@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1648349963 source:d:\my documents game cyuyan\c++\cy1.1\main.cpp
+	<iostream>
+	"tree00.h"
+
+1648349787 source:d:\my documents game cyuyan\c++\cy1.1\tree01.cpp
+	<iostream>
+	"tree00.h"
+
+1661608970 d:\my documents game cyuyan\c++\cy1.1\tree00.h
+

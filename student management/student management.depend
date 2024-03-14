@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1650214849 source:d:\my documents game cyuyan\c++\student management\main.cpp
+	<iostream>
+	<string>
+	<cstdlib>
+	"studentmanagement.h"
+
+1650215466 source:d:\my documents game cyuyan\c++\student management\studentma.cpp
+	<iostream>
+	<string>
+	"studentmanagement.h"
+
+1650213550 d:\my documents game cyuyan\c++\student management\studentmanagement.h
+	<string>
+

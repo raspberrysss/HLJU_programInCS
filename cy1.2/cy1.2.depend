@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1647867484 source:d:\my documents game cyuyan\c++\treemix.cpp
+	<iostream>
+
+1648960756 source:d:\my documents game cyuyan\c++\cy1.2\people01.cpp
+	<iostream>
+	"people00.h"
+
+1649030461 d:\my documents game cyuyan\c++\cy1.2\people00.h
+	<string>
+
+1648960756 source:d:\my documents game cyuyan\c++\cy1.2\use1.2.cpp
+	<iostream>
+	"people00.h"
+	<cstdio>
+	<cstdlib>
+
