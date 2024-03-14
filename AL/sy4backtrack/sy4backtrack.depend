@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1681869377 source:d:\my documents game cyuyan\dex\al\sy4backtrack\main.cpp
+	<iostream>
+	"Backtrack00.h"
+	<cstdlib>
+
+1681873691 source:d:\my documents game cyuyan\dex\al\sy4backtrack\backtrack01.cpp
+	"Backtrack00.h"
+	<iostream>
+	<cmath>
+
+1681868908 d:\my documents game cyuyan\dex\al\sy4backtrack\backtrack00.h
+

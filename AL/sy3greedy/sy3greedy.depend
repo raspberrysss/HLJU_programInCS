@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1681262225 source:d:\my documents game cyuyan\dex\al\sy3greedy\main.cpp
+	<iostream>
+	"greedy00.h"
+	<cstdlib>
+
+1681262184 source:d:\my documents game cyuyan\dex\al\sy3greedy\greedy01.cpp
+	<iostream>
+	"greedy00.h"
+	<algorithm>
+
+1681260661 d:\my documents game cyuyan\dex\al\sy3greedy\greedy00.h
+

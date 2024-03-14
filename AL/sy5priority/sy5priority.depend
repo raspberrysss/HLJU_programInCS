@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1682428346 source:d:\my documents game cyuyan\dex\al\sy5priority\main.cpp
+	<iostream>
+	"Priority00.h"
+
+1682475697 source:d:\my documents game cyuyan\dex\al\sy5priority\priority.cpp
+	"Priority00.h"
+	<iostream>
+	<string>
+	<algorithm>
+
+1682462995 d:\my documents game cyuyan\dex\al\sy5priority\priority00.h
+

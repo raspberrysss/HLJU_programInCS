@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1680055021 source:d:\my documents game cyuyan\dex\al\sy2dynamic\main.cpp
+	<iostream>
+	"Maxdd00.h"
+	<stdlib.h>
+
+1680054959 source:d:\my documents game cyuyan\dex\al\sy2dynamic\maxdd01.cpp
+	"Maxdd00.h"
+	<iostream>
+
+1683254523 d:\my documents game cyuyan\dex\al\sy2dynamic\maxdd00.h
+	<string>
+	<iostream>
+

@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1680010142 source:d:\my documents game cyuyan\dex\al\maxsegment\maxse01.cpp
+	"MaxSe00.h"
+	<iostream>
+	<algorithm>
+
+1680009941 d:\my documents game cyuyan\dex\al\maxsegment\maxse00.h
+
+1680010020 source:d:\my documents game cyuyan\dex\al\maxsegment\main.cpp
+	<iostream>
+	<cstdlib>
+	"MaxSe00.h"
+
